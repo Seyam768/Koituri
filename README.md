@@ -24,7 +24,7 @@ pkg install python3
 git clone https://github.com/Seyam768/koituri
 
 
-cd spyshar 
+cd Koituri
 
 
 bash spyshar.sh 
