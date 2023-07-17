@@ -1,7 +1,7 @@
 # Koituri 
 
 # about tool
-this is a pyshing attack tools por fb 
+this is a pyshing attack tools for fb 
 
 
 
@@ -15,6 +15,10 @@ apt upgred
 
 
 termux-setup-storege 
+
+pkg install git 
+
+pkg install python3 
 
 
 git clone https://github.com/Seyam768/koituri
