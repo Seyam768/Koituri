@@ -1,4 +1,4 @@
-/bin/bash
+#/bin/bash
 
 ##   sphisher   :       seyam Phishing Tool
 ##   Author     :       SE YA M
